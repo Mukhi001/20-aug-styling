@@ -33,6 +33,9 @@ return <Im key={eachImage.name} source={eachImage.source} alternateText={eachIma
    <Headd text="These are Fruits">
     hi,there
    </Headd>
+   <Headd text="These are Fruits">
+    hi,there
+   </Headd>
    <CustomList list={["kiwi", "apple","banana"]}/>
    <Headd text="These are criketers">
     hola,there
